@@ -1,0 +1,52 @@
+<------------------Pacient 'G' a intrat in sala de asteptare
+noG:0, noM:0
+
+Pacientul G a intrat in cabinet!
+<------------------Pacient 'G' a intrat in sala de asteptare
+Pacientul 'G' a iesit din cabinet dupa 6.70
+noG:0, noM:0
+
+Pacientul G a intrat in cabinet!
+<------------------Pacient 'R' a intrat in sala de asteptare
+<------------------Pacient 'R' a intrat in sala de asteptare
+Pacientul 'G' a iesit din cabinet dupa 10.67
+noG:0, noM:0
+
+Pacientul R a intrat in cabinet!
+<------------------Pacient 'R' a intrat in sala de asteptare
+Pacientul 'R' a iesit din cabinet dupa 2.84
+noG:0, noM:0
+<------------------Pacient 'G' a intrat in sala de asteptare
+
+Pacientul G a intrat in cabinet!
+<------------------Pacient 'R' a intrat in sala de asteptare
+<------------------Pacient 'R' a intrat in sala de asteptare
+Pacientul 'G' a iesit din cabinet dupa 11.12
+noG:0, noM:0
+<------------------Pacient 'R' a intrat in sala de asteptare
+
+Pacientul R a intrat in cabinet!
+<------------------Pacient 'R' a intrat in sala de asteptare
+Pacientul 'R' a iesit din cabinet dupa 2.33
+noG:0, noM:0
+
+Pacientul R a intrat in cabinet!
+Pacientul 'R' a iesit din cabinet dupa 1.32
+noG:0, noM:0
+
+Pacientul R a intrat in cabinet!
+Pacientul 'R' a iesit din cabinet dupa 1.53
+noG:0, noM:0
+
+Pacientul R a intrat in cabinet!
+Pacientul 'R' a iesit din cabinet dupa 2.63
+noG:0, noM:0
+
+Pacientul R a intrat in cabinet!
+Pacientul 'R' a iesit din cabinet dupa 1.81
+noG:0, noM:0
+
+Pacientul R a intrat in cabinet!
+Pacientul 'R' a iesit din cabinet dupa 2.15
+noG:0, noM:0
+^Z

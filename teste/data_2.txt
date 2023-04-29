@@ -1,0 +1,52 @@
+<---------------------------Pacient 'M' a intrat in sala de asteptare
+<---------------------------Pacient 'M' a intrat in sala de asteptare
+noG:0, noM:0
+
+Pacientul M a intrat in cabinet!
+<---------------------------Pacient 'G' a intrat in sala de asteptare
+Pacientul 'M' a iesit din cabinet dupa 45.43 min
+
+Pacientul G a intrat in cabinet!
+noG:1, noM:0
+<---------------------------Pacient 'R' a intrat in sala de asteptare
+Pacientul 'G' a iesit din cabinet dupa 60.32 min
+noG:0, noM:0
+
+Pacientul M a intrat in cabinet!
+<---------------------------Pacient 'M' a intrat in sala de asteptare
+Pacientul 'M' a iesit din cabinet dupa 43.27 min
+noG:0, noM:0
+
+Pacientul M a intrat in cabinet!
+<---------------------------Pacient 'G' a intrat in sala de asteptare
+<---------------------------Pacient 'R' a intrat in sala de asteptare
+Pacientul 'M' a iesit din cabinet dupa 56.85 min
+
+Pacientul G a intrat in cabinet!
+noG:1, noM:0
+<---------------------------Pacient 'G' a intrat in sala de asteptare
+Pacientul 'G' a iesit din cabinet dupa 54.55 min
+noG:0, noM:0
+
+Pacientul G a intrat in cabinet!
+Pacientul 'G' a iesit din cabinet dupa 38.56 min
+noG:0, noM:0
+
+Pacientul R a intrat in cabinet!
+<---------------------------Pacient 'G' a intrat in sala de asteptare
+Pacientul 'R' a iesit din cabinet dupa 27.26 min
+
+Pacientul G a intrat in cabinet!
+noG:1, noM:0
+<---------------------------Pacient 'R' a intrat in sala de asteptare
+Pacientul 'G' a iesit din cabinet dupa 50.22 min
+noG:0, noM:0
+
+Pacientul R a intrat in cabinet!
+Pacientul 'R' a iesit din cabinet dupa 16.29 min
+noG:0, noM:0
+
+Pacientul R a intrat in cabinet!
+Pacientul 'R' a iesit din cabinet dupa 22.96 min
+noG:0, noM:0
+

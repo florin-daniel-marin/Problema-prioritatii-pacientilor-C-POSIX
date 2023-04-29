@@ -1,0 +1,57 @@
+<---------------------------Pacient 'M' a intrat in sala de asteptare
+<---------------------------Pacient 'G' a intrat in sala de asteptare
+<---------------------------Pacient 'G' a intrat in sala de asteptare
+
+Pacientul G a intrat in cabinet!
+<---------------------------Pacient 'M' a intrat in sala de asteptare
+<---------------------------Pacient 'M' a intrat in sala de asteptare
+<---------------------------Pacient 'M' a intrat in sala de asteptare
+Pacientul 'G' a iesit din cabinet dupa 85.23 min
+<---------------------------Pacient 'M' a intrat in sala de asteptare
+
+Pacientul G a intrat in cabinet!
+<---------------------------Pacient 'R' a intrat in sala de asteptare
+Pacientul 'G' a iesit din cabinet dupa 56.89 min
+<---------------------------Pacient 'R' a intrat in sala de asteptare
+test->bariera M ridicata!
+test->bariera inchisa pentru R!
+
+Pacientul M a intrat in cabinet!
+<---------------------------Pacient 'G' a intrat in sala de asteptare
+Pacientul 'M' a iesit din cabinet dupa 53.01 min
+
+Pacientul G a intrat in cabinet!
+Pacientul 'G' a iesit din cabinet dupa 71.02 min
+test->bariera M ridicata!
+test->bariera inchisa pentru R!
+
+Pacientul M a intrat in cabinet!
+Pacientul 'M' a iesit din cabinet dupa 32.26 min
+test->bariera M ridicata!
+test->bariera inchisa pentru R!
+
+Pacientul M a intrat in cabinet!
+Pacientul 'M' a iesit din cabinet dupa 37.25 min
+test->bariera M ridicata!
+test->bariera inchisa pentru R!
+
+Pacientul M a intrat in cabinet!
+Pacientul 'M' a iesit din cabinet dupa 30.89 min
+test->bariera M ridicata!
+test->bariera inchisa pentru R!
+
+Pacientul M a intrat in cabinet!
+Pacientul 'M' a iesit din cabinet dupa 51.42 min
+test->bariera M ridicata!
+test->bariera R ridicata!
+
+Pacientul R a intrat in cabinet!
+Pacientul 'R' a iesit din cabinet dupa 14.21 min
+test->bariera M ridicata!
+test->bariera R ridicata!
+
+Pacientul R a intrat in cabinet!
+Pacientul 'R' a iesit din cabinet dupa 23.30 min
+test->bariera M ridicata!
+test->bariera R ridicata!
+

@@ -1,0 +1,53 @@
+<---------------------------Pacient 'R' a intrat in sala de asteptare
+
+nr.0 Pacientul R a intrat in cabinet!
+Pacientul 'R' a iesit din cabinet dupa 10.69 min
+<---------------------------Pacient 'M' a intrat in sala de asteptare
+
+nr.2 Pacientul M a intrat in cabinet!
+<---------------------------Pacient 'M' a intrat in sala de asteptare
+Pacientul 'M' a iesit din cabinet dupa 38.93 min
+<---------------------------Pacient 'G' a intrat in sala de asteptare
+
+nr.2 Pacientul G a intrat in cabinet!
+<---------------------------Pacient 'R' a intrat in sala de asteptare
+<---------------------------Pacient 'G' a intrat in sala de asteptare
+Pacientul 'G' a iesit din cabinet dupa 53.23 min
+
+nr.3 Pacientul M a intrat in cabinet!
+<---------------------------Pacient 'M' a intrat in sala de asteptare
+Pacientul 'M' a iesit din cabinet dupa 56.21 min
+
+nr.4 Pacientul R a intrat in cabinet!
+Pacientul 'R' a iesit din cabinet dupa 22.71 min
+
+nr.5 Pacientul G a intrat in cabinet!
+<---------------------------Pacient 'G' a intrat in sala de asteptare
+Pacientul 'G' a iesit din cabinet dupa 57.97 min
+
+nr.6 Pacientul G a intrat in cabinet!
+<---------------------------Pacient 'R' a intrat in sala de asteptare
+Pacientul 'G' a iesit din cabinet dupa 46.55 min
+
+nr.7 Pacientul M a intrat in cabinet!
+<---------------------------Pacient 'R' a intrat in sala de asteptare
+<---------------------------Pacient 'R' a intrat in sala de asteptare
+Pacientul 'M' a iesit din cabinet dupa 35.56 min
+
+nr.9 Pacientul R a intrat in cabinet!
+<---------------------------Pacient 'R' a intrat in sala de asteptare
+Pacientul 'R' a iesit din cabinet dupa 22.05 min
+
+nr.10 Pacientul R a intrat in cabinet!
+Pacientul 'R' a iesit din cabinet dupa 22.74 min
+<---------------------------Pacient 'M' a intrat in sala de asteptare
+
+nr.10 Pacientul M a intrat in cabinet!
+<---------------------------Pacient 'R' a intrat in sala de asteptare
+Pacientul 'M' a iesit din cabinet dupa 58.05 min
+<---------------------------Pacient 'M' a intrat in sala de asteptare
+
+nr.10 Pacientul M a intrat in cabinet!
+Pacientul 'M' a iesit din cabinet dupa 38.57 min
+Press ENTER to continue...
+

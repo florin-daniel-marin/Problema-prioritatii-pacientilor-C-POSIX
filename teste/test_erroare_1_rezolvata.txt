@@ -1,0 +1,61 @@
+<---------------------------Pacient 'R' a intrat in sala de asteptare
+test->bariera M ridicata!
+test->bariera R ridicata!
+
+Pacientul R a intrat in cabinet!
+Pacientul 'R' a iesit din cabinet dupa 25.54 min
+test->bariera M ridicata!
+test->bariera R ridicata!
+<---------------------------Pacient 'R' a intrat in sala de asteptare
+
+Pacientul R a intrat in cabinet!
+Pacientul 'R' a iesit din cabinet dupa 10.33 min
+test->bariera M ridicata!
+test->bariera R ridicata!
+<---------------------------Pacient 'G' a intrat in sala de asteptare
+
+Pacientul G a intrat in cabinet!
+<---------------------------Pacient 'M' a intrat in sala de asteptare
+test->bariera inchisa pentru R!
+<---------------------------Pacient 'R' a intrat in sala de asteptare
+Pacientul 'G' a iesit din cabinet dupa 86.20 min
+
+Pacientul M a intrat in cabinet!
+test->bariera M ridicata!
+<---------------------------Pacient 'R' a intrat in sala de asteptare
+Pacientul 'M' a iesit din cabinet dupa 43.25 min
+
+Pacientul R a intrat in cabinet!
+test->bariera M ridicata!
+test->bariera R ridicata!
+Pacientul 'R' a iesit din cabinet dupa 14.80 min
+test->bariera M ridicata!
+
+Pacientul R a intrat in cabinet!
+test->bariera R ridicata!
+<---------------------------Pacient 'M' a intrat in sala de asteptare
+test->bariera inchisa pentru R!
+<---------------------------Pacient 'M' a intrat in sala de asteptare
+Pacientul 'R' a iesit din cabinet dupa 15.43 min
+
+Pacientul M a intrat in cabinet!
+<---------------------------Pacient 'G' a intrat in sala de asteptare
+test->bariera M ridicata!
+Pacientul 'M' a iesit din cabinet dupa 31.47 min
+
+Pacientul G a intrat in cabinet!
+test->bariera inchisa pentru R!
+<---------------------------Pacient 'M' a intrat in sala de asteptare
+Pacientul 'G' a iesit din cabinet dupa 69.89 min
+
+Pacientul M a intrat in cabinet!
+test->bariera M ridicata!
+Pacientul 'M' a iesit din cabinet dupa 52.45 min
+test->bariera inchisa pentru R!
+test->bariera M ridicata!
+
+Pacientul M a intrat in cabinet!
+Pacientul 'M' a iesit din cabinet dupa 46.68 min
+test->bariera M ridicata!
+test->bariera R ridicata!
+
