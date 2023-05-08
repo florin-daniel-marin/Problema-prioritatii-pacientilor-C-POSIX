@@ -4,10 +4,11 @@ Materia: Programarea Aplicațiilor în Timp Real
 Aprilie, Sem. 2, 2022
 ```
 # Problema prioritatii pacientilor
+<div style="text-align:center;">
+<img src="https://github.com/florin-daniel-marin/Problema-prioritatii-pacientilor-C-POSIX/blob/main/images/Logo_Universitatea_Politehnica_din_Bucure%C8%99ti.svg.png" style="width:200px;"/>
+</div>
 
-![alt text](https://github.com/florin-daniel-marin/Problema-prioritatii-pacientilor-C-POSIX/blob/main/images/Logo_Universitatea_Politehnica_din_Bucure%C8%99ti.svg.png)
-
-## - Problema de sincronizare -
+## Problema de sincronizare
 
 Nume Prenume Grupa Adrese de e-mail
 
