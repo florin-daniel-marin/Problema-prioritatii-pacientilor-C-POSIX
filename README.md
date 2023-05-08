@@ -38,7 +38,7 @@ La o unitate de urgenta care accepta 10 pacienti pe zi, vin aleatoriu trei tipur
 
 Problema se rezolva in real time programming unde 1s = 10 min din viata reala folosind operatii de sincronizare.
 
-Definire problem ̆a
+### Definire problemă
 
 ```
  Task G - Preluare in cabinet pacient cu prioritate medicalaGrava
@@ -56,7 +56,7 @@ la momente aleatorii de timp
 ```
  Task monitorizare - Decide ce pacient va intra in cabinet cand acesta se elibereaza
 ```
-Constrangeri
+### Constrângeri
 
 1. Maxim 10 de pacienti in sala de asteptare
 2. Pacientul cu prioritate grava intra in cabinet daca cabinetul este gol
@@ -77,7 +77,7 @@ Constrangeri
 
 ## 2 Analiza problemei
 
-Solutia problemei pe larg
+### Solutia problemei pe larg
 
 Noi ne-am gandit la implementarea unei solutii care nu inregistreaza datele pacientilor intr-o structura reala, iar coada de asteptare (sala) definita ulterior va fi o coada abstracta, pur teoretica. Toate datele despre coada sunt cunoscute din valoriile unor semafoare. Vom defini cate-un semafor pentru fiecare tip de pacient, un semafor pentru semnalarea locurilor libere si ocupate din coada virtuala. Problema nu include constrangeri despre identificarea pacientilor sau despre intrarea lor in cabinet dupa timpul in care au ajuns in sala, deci cerinta problemei ramane doar accesul corect la cabinet a tipurilor de pacienti dupa prioritatea lor, identitatea
 lor nefiind importanta pentru problema data, ci doar tipul de prioritate medicala: grava, medie sau redusa.
@@ -97,7 +97,7 @@ programul gandit de noi spre rezolvarea problemei. Cu siguranta exista metode ma
 Problema se aseamana problemei tipice Producator-Consumator, unde producatorul este task-ul addQueue, care adauga in coada de asteptare pacienti, consumatorul este task-ul monitorizare, care decide ce pacient are acces la resursa critica - cabinetul, iar buffer-ul sau queue este coada de asteptare care nu exista prin sine, nefiind creata, si exista prin existenta task-urilor G, M si R. Coada - G, M, R sunt ”shared resource” intre producator-pacienti si consumer-cabinet.Aceasta paralela intre concepte a usurat foarte mult implementarea programului. Problema fiind, dupa parerea noastra, un caz particular al problemei Producator-Consumator, cu con-strangerea prioritatii diferite a thread-urilor.
 
 
-Consideratii pentru implementare
+### Considerații pentru implementare
 
 - problema de tipul RTOS environment
 - timpul de 10 minute inseamna o secunda in program
@@ -113,7 +113,7 @@ Consideratii pentru implementare
     - M - monitorizare
 - resursa comuna: Q - queue (coada de asteptare)
 
-## 3 Concepte de programare in timp real
+## 3 Concepte de programare în timp real
 
 ### Concepte teoretice
 Conceptele prezentate la curs pe care le folosim:
@@ -274,9 +274,7 @@ Pe un caz asemanator, cu modificarea codului programului, eroarea aseamanatoare 
  * Eroare2 (în fișierul teste: test_erroare_2.txt)
 Eroare de sincronizare asemanatoare primei erorii, nerezolvate. Solutia buna era R,M,M,G,G,G,G,R,R,R, solutia gasita de program: R,M,M,G,R,G,G,G,R,R.
 
-## Validarea solutiei propuse
-
-Verificare solutie 1:
+### Validarea solutiei propuse
 
 Va prezentam doua solutii corecte gasite de program, pentru valori de intrare random si ”mai grele” decat majoritatea valorilor de intrare random.
 (Vezi verificare_solutie, verificare_solutie_2, verificare_finala din teste)
